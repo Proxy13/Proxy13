@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 [![Proxy13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proxy13)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
+## What I know
+![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
+![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="64">
